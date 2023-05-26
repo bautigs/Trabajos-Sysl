@@ -1,0 +1,15 @@
+[INFO] 12:46:43:046 file_system.log/(5561:5561): Se inicializa el módulo File System
+[INFO] 12:46:43:051 file_system.log/(5561:5561): IP: 127.0.0.1, PUERTO KERNEL: 9999
+[INFO] 12:46:43:052 file_system.log/(5561:5561): Escuchando en 127.0.0.1:9999 (FILE SYSTEM)
+
+[INFO] 12:46:43:052 file_system.log/(5561:5561): File System inicializado, esperando a recibir al Kernel en el PUERTO 9999.
+[INFO] 12:47:25:889 file_system.log/(5603:5603): Se inicializa el módulo File System
+[INFO] 12:47:25:895 file_system.log/(5603:5603): IP: 127.0.0.1, PUERTO KERNEL: 9999
+[INFO] 12:47:25:895 file_system.log/(5603:5603): Escuchando en 127.0.0.1:9999 (FILE SYSTEM)
+
+[INFO] 12:47:25:895 file_system.log/(5603:5603): File System inicializado, esperando a recibir al Kernel en el PUERTO 9999.
+[INFO] 12:47:38:681 file_system.log/(5619:5619): Se inicializa el módulo File System
+[INFO] 12:47:38:681 file_system.log/(5619:5619): IP: 127.0.0.1, PUERTO KERNEL: 9999
+[INFO] 12:47:38:682 file_system.log/(5619:5619): Escuchando en 127.0.0.1:9999 (FILE SYSTEM)
+
+[INFO] 12:47:38:682 file_system.log/(5619:5619): File System inicializado, esperando a recibir al Kernel en el PUERTO 9999.
